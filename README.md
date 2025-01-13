@@ -1,7 +1,7 @@
 # Hello-World
 
 ## Authors
-- [Your Name](https://github.com/)
+- [Your Name](https://github.com/JeraldNyaga)
 - Add your clickable username here. It should point to your GitHub account. 
 
 ## Project setup instructions
